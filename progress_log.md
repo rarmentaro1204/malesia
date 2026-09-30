@@ -6,3 +6,4 @@ Routine ricostruite il 2026-09-30 (verifica via WebSearch, nessun test di connes
 
 | Data/ora (UTC) | Stato | Settore | Grezzi | Verificati | Scartati | File / Note |
 |---|---|---|---|---|---|---|
+| 2026-09-30 06:50 | Johor | Cleaning | 9 | 6 | 3 | output/2026-09-30_06_Malesia_Johor_Cleaning.xlsx |
